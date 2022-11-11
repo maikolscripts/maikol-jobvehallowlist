@@ -18,7 +18,8 @@ Job Vehicle Allowlist script for FiveM | Supports ESX &amp; QBCore
 > • Script averages 0.00ms when active & idle
 > • The script was coded with optimization in mind always from the start :)
 
-
+**Documentation**
+> • https://maikolscripts.gitbook.io/docs/maikol-jobvehallowlist/
 
 
 
