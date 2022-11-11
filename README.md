@@ -2,12 +2,6 @@
 Job Vehicle Allowlist script for FiveM | Supports ESX &amp; QBCore
 
 
-![wp8617841 (1)|690x388](upload://fgd6dEENxobKiGqhmyIthapTzWr.jpeg)
-
-
-
-
-
 **Showcase Video**
 > • [https://www.youtube.com/watch?v=88-Y8FKqnRE](https://www.youtube.com/watch?v=88-Y8FKqnRE)
 
@@ -26,21 +20,5 @@ Job Vehicle Allowlist script for FiveM | Supports ESX &amp; QBCore
 
 
 
-**Download Links**
-Script is ``You Decide`` to protect the code, all tips are genuinely appreciated <3
-
-`Be sure to set the total to 0.0 if you can't afford to tip`
-
-> • ESX - https://www.maikolscripts.com/package/5355826
-> • QBCore - https://www.maikolscripts.com/package/5355828
 
 
-
-
-|                                         |                                |
-|-------------------------------------|----------------------------|
-| Code is accessible       |No, only config & locale               |
-| Subscription-based      | No           |
-| Lines (approximately)  | 100~  |
-| Requirements                | ESX or QBCore     |
-| Support                           | Yes, over discord                      |
