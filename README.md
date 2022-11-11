@@ -22,4 +22,7 @@ Job Vehicle Allowlist script for FiveM | Supports ESX &amp; QBCore
 > • https://maikolscripts.gitbook.io/docs/maikol-jobvehallowlist/
 
 
+**My Other Releases**
+> • [[PAID] Car Repo Job](https://forum.cfx.re/t/qbcore-car-repo-job-w-leveling-tier-system/4850804)
+> • [[PAID] Gun Jamming Script](https://forum.cfx.re/t/qbcore-esx-gun-jamming-script/4937117)
 
