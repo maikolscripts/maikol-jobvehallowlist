@@ -4,7 +4,7 @@ THANK YOU FOR SUPPORTING MY WORK! <3
 
 Want to gift me a coffee?
 https://www.maikolscripts.com/package/5355828
-You may claim your Free Supporter role in the discord afterwards <3
+You can claim a Free Supporter role in the discord afterwards! <3
 
 My Discord - Maikol#5282
 My Discord Server - maikolscripts.com/discord
